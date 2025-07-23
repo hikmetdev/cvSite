@@ -13,7 +13,7 @@ function CodeRain() {
     canvas.height = height;
     const fontSize = 18;
     const columns = Math.floor(width / fontSize);
-    const drops = Array(columns).fill(1);
+    const drops = Array(columns).fill(0).map(() => Math.floor(Math.random() * (height / fontSize)));
     const chars = '01<>[]{}()#$_=+-%;:|&^~ABCDEFGHIJKLMNOPQRSTUVWXYZ';
     function draw() {
       ctx.fillStyle = 'rgba(18, 63, 103, 0.13)';
@@ -241,7 +241,7 @@ function App() {
             </section>
             {/* CV İndir Butonu */}
             <div style={{display: 'flex', justifyContent: 'center', marginTop: '18px'}}>
-              <a href="/cv.pdf" download className="cv-social-btn" style={{fontWeight: 700, fontSize: '1.08rem', padding: '12px 32px', background: '#58A0C8', color: '#fff', borderRadius: '10px', textDecoration: 'none', boxShadow: '0 2px 8px #58A0C8', transition: 'background 0.18s, color 0.18s, box-shadow 0.18s, transform 0.18s'}}>
+              <a href="./cv.pdf" download className="cv-social-btn" style={{fontWeight: 700, fontSize: '1.08rem', padding: '12px 32px', background: '#58A0C8', color: '#fff', borderRadius: '10px', textDecoration: 'none', boxShadow: '0 2px 8px #58A0C8', transition: 'background 0.18s, color 0.18s, box-shadow 0.18s, transform 0.18s'}}>
                 CV İndir
               </a>
             </div>
