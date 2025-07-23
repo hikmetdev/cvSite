@@ -248,6 +248,9 @@ function App() {
           </div>
         </div>
       </div>
+      <footer style={{textAlign: 'center', marginTop: 32, marginBottom: 12, color: '#34699A', fontWeight: 500, fontSize: '1rem', opacity: 0.7}}>
+        © 2025 Hikmet Alanlı. Tüm hakları saklıdır.
+      </footer>
     </div>
   );
 }
