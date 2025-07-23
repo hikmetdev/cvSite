@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+<<<<<<< HEAD
+Senin local README içeriğin burası
+=======
+GitHub'daki README içeriği burası
+>>>>>>> origin/main
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# cvSite
+>>>>>>> a8bfa3245191b394da140684efe170973ebabe87
