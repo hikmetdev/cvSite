@@ -1,46 +1,45 @@
-📄 Kişisel CV Web Sitesi
+📄 Personal CV Website
 
-Bu proje, kişisel bilgilerimi, becerilerimi, projelerimi ve iletişim bilgilerimi içeren responsive bir CV (özgeçmiş) web sitesidir. Portfolyo sunumu ve iş başvurularında referans olarak kullanılabilir.
+This project is a responsive CV (curriculum vitae) website that showcases my personal information, skills, projects, and contact details. It can be used as a portfolio and as a reference for job applications.
 
-Not: GitHub Pages üzerinden yayınlanmıştır.
+    Note: Deployed via GitHub Pages.
 
-📁 Proje İçeriği
+📁 Project Structure
 
-  index.html: Ana sayfa
+    index.html: Home page
 
-  App.css: Özelleştirilmiş stiller
+    App.css: Custom styles
 
-  App.js: (Varsa) Etkileşimli davranışlar
+    App.js:  Interactive features
 
-  public/: Fotoğraflar, ikonlar ve diğer medya dosyaları
+    public/: Images, icons, and other media assets
 
+✨ Features
 
-✨ Özellikler
+    Responsive design (mobile-friendly)
 
-  Responsive tasarım (mobil uyumlu)
+    Easily customizable content
 
-  Kolayca özelleştirilebilir içerik
+    Fast deployment with GitHub Pages
 
-  GitHub Pages ile hızlı yayın
+🧰 Technologies Used
 
-🧰 Kullanılan Teknolojiler
+    HTML5 & CSS3
 
-  HTML5 & CSS3
+    JavaScript
 
-  JavaScript 
+    Font Awesome – for icons
 
-  Font Awesome - ikonlar için
+    Google Fonts – for typography
 
-  Google Fonts - yazı tipleri
+    GitHub Pages – for deployment
 
-  GitHub Pages - yayınlama
+📬 Contact
 
-📬 İletişim
+Feel free to reach out for any feedback or collaboration opportunities:
 
-Her türlü geri bildirim ve işbirliği için:
+    📧 Email: [hikmetalanli@outlook.com]
 
-  📧 Email: [hikmetalanli@outlook.com]
+    💼 LinkedIn: [https://www.linkedin.com/in/hikmet-alanl%C4%B1-4493b02a4/]
 
-  💼 LinkedIn: [(https://www.linkedin.com/in/hikmet-alanl%C4%B1-4493b02a4/)]
-
-  🧑‍💻 GitHub: [(https://github.com/hikmetdev)]
+    🧑‍💻 GitHub: [https://github.com/hikmetdev]
